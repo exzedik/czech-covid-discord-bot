@@ -57,6 +57,6 @@ def job():
     else:
         print(f"Not sent with {result.status_code}, response:\n{result.json()}")
 while True:
-    if pycron.is_now('0 6 * * mon-sun'):
+    if pycron.is_now('0 6 * * *'):
         job()
     time.sleep(60)

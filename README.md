@@ -1,3 +1,6 @@
+EDIT: 
+mzcr.cz odebrala možnost stahovat data ve formátu JSON, tento bot již nefunguje a neplánuji ho obnovovat.
+
 ## COVID-19 Discord Bot
 Jednoduchý večerní projekt, který posílá aktuální informace o COVID-19 každé ráno v 6 hodin.
 Zdroj informací: [mzcr.cz](https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/zakladni-prehled.json)
